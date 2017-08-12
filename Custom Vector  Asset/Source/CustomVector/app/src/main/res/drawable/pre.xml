@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48.0"
+    android:viewportHeight="48.0">
+    <group android:name="thing-1">
+        <path android:name="preer1"
+            android:fillColor="#ca37ec"
+            android:strokeWidth="0.1"
+            android:strokeColor="#cbecdd"
+            android:pathData="M 25 0 L 25 25 L 40 25"/>
+        <path android:name="preer2"
+            android:fillColor="#ca37ec"
+            android:strokeWidth="0.1"
+            android:strokeColor="#cbecdd"
+            android:pathData="M 25 0 L 25 25 L 10 25"/>
+    </group>
+</vector>

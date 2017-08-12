@@ -1,0 +1,2 @@
+This is an example Android application which uses Vector Assets by giving an external image file for creating Vector Asset and performs animations by using AnimatedVectorDrawableCompat class.
+

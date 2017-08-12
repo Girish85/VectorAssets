@@ -1,0 +1,2 @@
+This is an example Android application which  creates Vector Asset by using PathData in customized manner and performs animations including change in PathData by using AnimatedVectorDrawableCompat class.
+
