@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/vect">
+<target
+    android:animation="@animator/objanim"
+    android:name="transpath"/>
+    <target
+        android:animation="@animator/objanim2"
+        android:name="trans"/>
+    <target
+        android:animation="@animator/objanim3"
+        android:name="rect"/>
+</animated-vector>

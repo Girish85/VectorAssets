@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+     android:width="24dp" android:height="24dp"
+     android:viewportWidth="21.5" android:viewportHeight="22.5">
+    <group android:name="group">
+        <path android:name="rect"
+            android:strokeColor="#ffffff"
+            android:fillColor="#FF4081"
+            android:strokeWidth="0.01"
+            android:pathData="M 1 0 L 20 0.1 S 21.2 0.3 21 0.5 L 21.01 22
+            S 20.5 22.2 20 22.4 L 1.1 22.4 S 0.4 22.2 0.4 22 L 0.4 0.9
+            S 0.54 0.5 1 0 "
+            />
+    </group>
+    <group android:name="trans">
+        <path android:name="transpath"
+            android:strokeColor="#c059"
+            android:strokeWidth="0.5"
+            android:fillColor="#000000"
+            android:pathData="M 20 0.1 L 19.9 0.05 L 19.8 0.05"/>
+    </group>
+    </vector>
